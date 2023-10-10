@@ -1,0 +1,8 @@
+name = str(input("Enter name :"))
+age = int(input("Enter Age :"))
+addr = input("Enter Address :")
+ph = int(input("Enter Ph.No :"))
+print("\nName :",name)
+print("\nAge :",age)
+print("\nAddress :",addr)
+print("\nPhone Number :",ph)
